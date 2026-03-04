@@ -1,0 +1,1 @@
+print("GenAI Enginneer environment ready")
